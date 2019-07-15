@@ -1,0 +1,5 @@
+.idea
+.env
+config/parameters.satisfy.yml
+config/satis.json
+.DS_Store
